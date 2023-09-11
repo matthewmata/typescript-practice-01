@@ -1,1 +1,5 @@
-console.log('test');
+let obj = {
+
+}
+
+console.log(obj.c?.b);
